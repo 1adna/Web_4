@@ -163,8 +163,8 @@ height:100%;
 }
 .text{
     position: absolute;
-
-    margin:10%;
+    top: 25%;
+    margin:15%;
 }
 .flag1
 {
@@ -193,6 +193,7 @@ text
     position:relative;
     text-align:center;
     left:20%;
+    font-size: 7;
 }
 .top
 {
